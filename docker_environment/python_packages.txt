@@ -1,0 +1,10 @@
+flask
+flask-cors
+pprint
+gunicorn
+pandas
+mpld3
+setuptools
+requests-toolbelt
+slackclient
+slackeventsapi
